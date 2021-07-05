@@ -1,0 +1,6 @@
+# Requirements for Tweescord!
+
+tweepy
+discord.py
+urllib3
+requests
