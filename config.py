@@ -1,6 +1,6 @@
 # discord credentials
 
-# your discord token go here
+# your discord token goes here
 dc_token = ""
 
 # twitter credentials
